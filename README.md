@@ -1,3 +1,2 @@
 # MaryamCode
-This is a dummy repo
-This is Maryam -- I am creating a new repo
+This is my Web Programming Assignmentb repo.
