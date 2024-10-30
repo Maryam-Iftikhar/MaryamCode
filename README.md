@@ -1,2 +1,2 @@
 # MaryamCode
-This is my Web Programming Assignmentb repo.
+This is my Web Programming Assignment repo.
